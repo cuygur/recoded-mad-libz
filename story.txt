@@ -1,3 +1,3 @@
-Louis[n] went[v] to the store[n], and it was fun[a]. He taught[v] the class[n].
-The abbreviation[n] "n" means[v] noun. We use[v] the letter[n] "v" for verbs.
-And for "a", you can[v] make a good[a] guess.
+It was a cloudy[a] day. John[n] who is a depressed[a] man walked[v] in the street[n].
+Suddenly, he saw[v] a homeless[a]. He looked[v] at him. Poor[a] man wanted[v] some money[n].
+He gave[v] some money[n] to him. This made both of them happy[a]. He was depressed[a] but not a poor[a] man. 
